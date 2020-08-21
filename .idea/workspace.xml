@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2140f8b0-6afb-40da-a476-cd1f37fbf47a" name="Default Changelist" comment="" />
+    <list default="true" id="2140f8b0-6afb-40da-a476-cd1f37fbf47a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/三大法人資料集/20200106.txt" beforeDir="false" afterPath="$PROJECT_DIR$/三大法人資料集/20200106.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/三大法人資料集/20200107.txt" beforeDir="false" afterPath="$PROJECT_DIR$/三大法人資料集/20200107.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/三大法人資料集/20200116.txt" beforeDir="false" afterPath="$PROJECT_DIR$/三大法人資料集/20200116.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/資料爬蟲(測試).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/資料爬蟲(測試).ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,9 +57,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="204" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597812489086" />
-    <state x="340" y="78" key="SettingsEditor" timestamp="1597913992705">
+    <state x="340" y="78" key="SettingsEditor" timestamp="1597974301734">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="340" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597913992705" />
+    <state x="340" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597974301734" />
   </component>
 </project>
